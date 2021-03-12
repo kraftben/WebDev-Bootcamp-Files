@@ -1,5 +1,2 @@
 # WebDev-Bootcamp-Files
 A reopo for all files pertaining to the web development udemy course
-
-SSH TEST
-SSH TEST
