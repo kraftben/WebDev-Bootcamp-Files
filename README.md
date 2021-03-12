@@ -1,9 +1,2 @@
 # WebDev-Bootcamp-Files
 A reopo for all files pertaining to the web development udemy course
-
-TEST
-Test
-test
-tes
-te
-t
